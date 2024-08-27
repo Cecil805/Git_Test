@@ -1,5 +1,8 @@
-hello git   
+<<<<<<< HEAD
 hello github  22222
+=======
+hello git     11111
+>>>>>>> hot-fix
 hello git
 hello github
 hello world!
